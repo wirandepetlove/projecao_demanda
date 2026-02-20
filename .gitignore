@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+*.pyo
+produtos_substitutos/saida_substitutos/decomposicao_sku_dia.csv
